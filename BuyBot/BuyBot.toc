@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BuyBot
+## Version: 1.1.0
+## Author: Aegir
+## DefaultState: Enabled
+## SavedVariables: BB_OVER, BB_LIST
+BuyBot.lua
